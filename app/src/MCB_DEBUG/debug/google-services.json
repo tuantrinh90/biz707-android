@@ -1,0 +1,170 @@
+{
+  "project_info": {
+    "project_number": "443830201800",
+    "firebase_url": "https://bizbook-a8bb9.firebaseio.com",
+    "project_id": "bizbook-a8bb9",
+    "storage_bucket": "bizbook-a8bb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443830201800:android:84a498312cdc4ff0",
+        "android_client_info": {
+          "package_name": "com.biz.books"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443830201800-anudcabf8pnt46cbqpgbg19alb2k4h2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biz.books",
+            "certificate_hash": "451070c89b5ea2b693d585cb6c78078deba0c761"
+          }
+        },
+        {
+          "client_id": "443830201800-6fvrtd17eb110mghj17h0th1a5snbgnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biz.books",
+            "certificate_hash": "4cf1d8c962f8273e9e12a0f12922aa46d6f60610"
+          }
+        },
+        {
+          "client_id": "443830201800-jaialjt3thj9l5coddu0tmvkmj4j6rt7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biz.books",
+            "certificate_hash": "37724edd63e5d423c0046e054b35f4ee7a107e50"
+          }
+        },
+        {
+          "client_id": "443830201800-6ap1npf8rt23jms38qoi64ub86v1068b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5AVUsczYWPj4n8GcjaW38dglTegSLIEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443830201800-6ap1npf8rt23jms38qoi64ub86v1068b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443830201800:android:0498fb0dde6d2bfd",
+        "android_client_info": {
+          "package_name": "com.biz.books.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443830201800-5g5b7042p4186v252p7vlgv7cc8uknsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biz.books.beta",
+            "certificate_hash": "37724edd63e5d423c0046e054b35f4ee7a107e50"
+          }
+        },
+        {
+          "client_id": "443830201800-tu3s32fu08qercml77nrqnnr7e89bg36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biz.books.beta",
+            "certificate_hash": "4cf1d8c962f8273e9e12a0f12922aa46d6f60610"
+          }
+        },
+        {
+          "client_id": "443830201800-qjt0bii1ublgfljm9t0obn2qj4ihtr28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biz.books.beta",
+            "certificate_hash": "451070c89b5ea2b693d585cb6c78078deba0c761"
+          }
+        },
+        {
+          "client_id": "443830201800-6ap1npf8rt23jms38qoi64ub86v1068b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5AVUsczYWPj4n8GcjaW38dglTegSLIEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443830201800-6ap1npf8rt23jms38qoi64ub86v1068b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443830201800:android:5589c159b9af4cd3",
+        "android_client_info": {
+          "package_name": "com.biz.books.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443830201800-29elv7iiorbvmk6nqas6t6knap4i7rpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biz.books.debug",
+            "certificate_hash": "37724edd63e5d423c0046e054b35f4ee7a107e50"
+          }
+        },
+        {
+          "client_id": "443830201800-9hjd64nekqsva7v752qn6sbgep93fd9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biz.books.debug",
+            "certificate_hash": "4cf1d8c962f8273e9e12a0f12922aa46d6f60610"
+          }
+        },
+        {
+          "client_id": "443830201800-unf9m5ahd24h0slj2agfo1m6dkcp1abg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biz.books.debug",
+            "certificate_hash": "451070c89b5ea2b693d585cb6c78078deba0c761"
+          }
+        },
+        {
+          "client_id": "443830201800-6ap1npf8rt23jms38qoi64ub86v1068b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5AVUsczYWPj4n8GcjaW38dglTegSLIEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443830201800-6ap1npf8rt23jms38qoi64ub86v1068b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

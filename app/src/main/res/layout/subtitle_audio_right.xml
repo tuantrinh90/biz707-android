@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/margin_dialog"
+    android:layout_marginTop="@dimen/padding_layout"
+    android:background="@android:color/transparent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/padding_content"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:id="@+id/llChatRightLayout"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/chat_right_layout_sub_2"
+                android:padding="@dimen/padding_content">
+
+                <com.bon.customview.textview.ExtTextView
+                    android:id="@+id/tvChatContent"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_white"
+                    android:textSize="@dimen/text_medium"
+                    app:textViewFontAssetName="@string/font_regular"
+                    tools:text="vllvlvlvlvlv\na\n\v\n\v" />
+
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/ivChatRightArrow"
+                android:layout_width="@dimen/icon_arrow_width"
+                android:layout_height="@dimen/icon_arrow_height"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="@dimen/padding_content"
+                android:background="@drawable/chat_right_arrow_sub_2" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/ivAvatar"
+            android:layout_width="@dimen/icon_medium"
+            android:layout_height="@dimen/icon_medium"
+            android:layout_gravity="bottom"
+            android:src="@drawable/ic_avatar_sub_1" />
+
+    </LinearLayout>
+
+</LinearLayout>

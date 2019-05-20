@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_enable_swipe"
+        android:orderInCategory="100"
+        android:title="Enable Swipe"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_enable_double_tap"
+        android:orderInCategory="100"
+        android:title="Enable DoubleTap"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_disable_swipe"
+        android:orderInCategory="100"
+        android:title="Disable Gestures"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_show_bottombar"
+        android:orderInCategory="100"
+        android:title="Show BottomBar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_hide_bottombar"
+        android:orderInCategory="100"
+        android:title="Hide BottomBar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_show_captions"
+        android:orderInCategory="100"
+        android:title="Show Captions"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_hide_captions"
+        android:orderInCategory="100"
+        android:title="Hide Captions"
+        app:showAsAction="never" />
+</menu>
